@@ -1,0 +1,14 @@
+body {
+    background-image: url("img/fondo.png");
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+p {
+    color: yellow;
+    font-family: verdana;
+    font-size: 15px;
+}
